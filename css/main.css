@@ -1,0 +1,23 @@
+/* Estilos personalizados */
+
+body {
+	padding-top: 4rem;
+}
+
+.miFooter {
+	background-color: lightgray;
+	font-size: 0.75rem;
+}
+
+.text-justify {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+input[type="number"] {
+   width:50px;
+}
+
+input { 
+    text-align: center; 
+}
